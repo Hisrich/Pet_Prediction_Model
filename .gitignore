@@ -1,0 +1,9 @@
+data/
+petadpenv/
+main.py
+model_note.ipynb
+model.py
+new.py
+pet_adoption_model_1.pkl
+scalar.pkl
+update.txt
